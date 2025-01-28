@@ -30,7 +30,7 @@ spec:
 
       - name: access-app
 
-        image: nginx
+        image: sanket2908/nginx
 
         ports:
 
